@@ -1,0 +1,5 @@
+se/yrgo/isbntools/BookManager.class
+se/yrgo/isbntools/ExternalISBNDataService.class
+se/yrgo/isbntools/Book.class
+se/yrgo/isbntools/StockSystem.class
+se/yrgo/isbntools/ValidateISBN.class
